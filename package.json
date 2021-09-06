@@ -1,0 +1,24 @@
+{
+  "name": "coffe-commerce",
+  "version": "1.0.0",
+  "description": "커피 쇼핑어플리케이션\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 5000 ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julia1450/coffe-commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia1450/coffe-commerce/issues"
+  },
+  "homepage": "https://github.com/julia1450/coffe-commerce#readme",
+  "dependencies": {
+    "http-server": "^13.0.1",
+    "rollup": "^2.56.3"
+  }
+}
